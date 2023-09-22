@@ -37,13 +37,6 @@ dc = 0: FL without staleness
 * argparse
 * torchvision
 
-  
-## Requirements
-* Python 3.7+
-* [tensorflow 2](https://www.tensorflow.org/install)
-* [tensorflow-datasets](https://github.com/tensorflow/datasets)
-* [tensorflow-addons](https://github.com/tensorflow/addons)
-* [tiny-imagenet-tfds](https://github.com/ksachdeva/tiny-imagenet-tfds)
-* tqdm
+
 
 
