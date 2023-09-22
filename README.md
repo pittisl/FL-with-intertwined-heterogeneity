@@ -11,7 +11,7 @@ For the fixed data scenario, you can run the experiment with streaming_fed.py. T
 
 The implementation details about the gradient inversion can be found in the inversefed folder. The functions about client data sampling and local training can be found in sampling.py and update.py.
 
-## Paremeter setting
+## Parameter setting
 
 The basic federated learning paremeters such as training epochs and the number of clients are set in option.py
 
